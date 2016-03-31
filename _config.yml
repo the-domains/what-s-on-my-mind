@@ -1,0 +1,28 @@
+name: "What's On My Mind"
+favicon: null
+layout_spectrum: 0.004150781314820051
+typography_spectrum: 0.839244922157377
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3793134670704603
+  lightness: 0.06358491047285497
+  saturation: 0.5126022032927722
+  rhythmicContrast: 0.9881596949417144
+purpose: []
